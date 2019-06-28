@@ -1,0 +1,8 @@
+<resources
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_quries" type="drawable">@mipmap/query_icon</item>
+    <item name="ic_menu_videos" type="drawable">@mipmap/video</item>
+    <item name="ic_menu_contacts" type="drawable">@mipmap/contact</item>
+    <item name="ic_menu_faq" type="drawable">@mipmap/faq</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+</resources>

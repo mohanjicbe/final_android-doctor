@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tv_tit_awards"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+        android:fontFamily="sans-serif"
+        android:maxLines="1"
+        android:text="Awards :"
+        android:textColor="@color/mds_bluegrey_800"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <EditText
+        android:id="@+id/edt_awards"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/answeredittext"
+        android:fontFamily="sans-serif"
+        android:gravity="left"
+        android:hint="Awards"
+        android:layout_marginTop="5dp"
+        android:minHeight="150dp"
+        android:padding="10dp"
+        android:textColor="@color/mds_bluegrey_700"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+
+</LinearLayout>

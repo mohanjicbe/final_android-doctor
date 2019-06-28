@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_hotline"
+        android:icon="@mipmap/hotline_white"
+        android:orderInCategory="100"
+        android:title="Hotline Chat"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/nav_refer_doc"
+        android:icon="@mipmap/refer_icon_white"
+        android:orderInCategory="100"
+        android:title="Refer Doctor"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/nav_sharemylink"
+        android:orderInCategory="100"
+        android:icon="@mipmap/share_ico_white"
+        android:title="Share my Link"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/nav_prefef"
+        android:orderInCategory="100"
+        android:title="Preferences"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/rateapp"
+        android:orderInCategory="100"
+        android:title="Rate App"
+        app:showAsAction="never" />
+
+
+
+
+    <item
+        android:id="@+id/nav_reportissue"
+        android:icon="@mipmap/booking"
+        android:orderInCategory="100"
+        android:title="Report Issue"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/nav_aboutapp"
+        android:orderInCategory="100"
+        android:title="About App"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+</menu>

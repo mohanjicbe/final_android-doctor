@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">DocAssist</string>
+    <string name="this_app_name">DocAssist</string>
+
+    <string-array name="tzone">
+        <item>GMT(+5:30) Delhi,Kolkata</item>
+        <item>GMT(+5:00) Srilanka, Colombo</item>
+        <item>Choose another Timezone</item>
+    </string-array>
+
+    <string-array name="clinics">
+        <item>Kerala Clinic</item>
+        <item>Add New Clinic</item>
+    </string-array>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home">Home</string>
+    <string name="browse">Browse</string>
+    <string name="search">Search</string>
+    <string name="radio">Radio</string>
+    <string name="your_library">Your Library</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_pick">Single Pick From Gallery</string>
+    <string name="btn_pick_mul"> Multiple Pick From Gallery</string>
+
+    <string name="forgotpw"><a href="https://www.icliniq.com/users/forgetpass">Forgot password?</a></string>
+    <string name="requestlogin">Are you a Doctor, but do not have an icliniq account yet? Please <a href="https://www.icliniq.com/users/userSignup">request login access</a></string>
+
+    <string name="myicliniqtitle">Your &quot;Own iCliniq&quot; for Your Clinic</string>
+
+    <string name="myicliniqlist"><![CDATA[&#8226;&#160;&#160;&#160;Your patients can consult via your short url.<br /><br />
+    &#8226;&#160;&#160;&#160;Platform fee is ONLY 9% for query/video consult.<br /><br />
+    &#8226;&#160;&#160;&#160;Share your short url on Facebook, Twitter or WhatsApp.]]></string>
+
+
+    <string name="video_note"><![CDATA[&#8226;&#160;&#160;&#160;The video file size should be less than 100 MB.<br /><br />
+    &#8226;&#160;&#160;&#160;Video file length should not be less than resolution 720.]]></string>
+
+
+    <string-array name="fruit_array">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Lime</item>
+        <item>Pear</item>
+        <item>Coconut</item>
+    </string-array>
+
+    <string name="terms"><![CDATA[By accepting these Terms and Conditions, I warrant that I have completed 18 years of age as on date of this agreement and that I  have fully read and understood the Terms and Conditions as set forth in this agreement, without any impairment in judgment resulting from (but not limited to) mental illness, mental handicap, intoxication, medication, or any other health or other problem that could impair judgment.
+I acknowledge that  Orane Healthcare India Pvt. Ltd., 7 Bharathi Park Road I cross street, Saibaba colony, Coimbatore 641011  is the owner/ proprietor of the domain name and website, “www.icliniq.com”(hereinafter referred to as, “the website”). I also absolve professionals engaged by Orane Healthcare India Pvt. Ltd.,who offer services through the website from any  responsibility or liability whatsoever, for any medical, legal or financial events or outcomes related to services attained by me through the use of online video consultation. I also understand and use the website accepting that it is being provided on an as is basis.
+
+The website is not intended to be used to: 1. Treat a medical emergency or medical condition, 2. Advise or resolve legal, medical or financial issues outside the scope of what has been agreed or provided.
+
+For any medical emergency, You should immediately contact the emergency number in your country.
+
+Information or advice provided on the Site by professionals should be used merely as a guide rather than a definitive recommendation to adopt any specific action or treatment. Nothing transmitted to or from this Site constitutes the establishment of a doctor-patient relationship between you and any professional providing information or advice through the site. The site is not intended to diagnose a medical condition
+
+I understand and agree that icliniq does not regularly review the posts on the Site (excluding, however, icliniq right to access accounts to ensure that the system is working and/or in the case of any technical dysfunction) and the views expressed therein are those of the posters and do not necessarily reflect those of icliniq, its owners, managers, directors, employees, agents, partners, advertisers or affiliates. icliniq  assumes no responsibility for the posts or the information contained therein, nor does it make any claims, promises or guarantees about the accuracy, suitability or completeness of any of the information on the Site or in the posts. All advice and/or information obtained directly or indirectly from the Site are provided at my own risk.
+
+For all consultations including medical consultations in particular,  before acting on any of the advice offered in/through the site,  I should confirm that such action is applicable and suitable to me, by referring to my own medical practitioner or by obtaining  a second and third opinion of other medical practitioners. The limitations associated with consultations or other services exclusive of physical examination, in person legal advice or onsite and extensive investigations are hereby accepted and agreed to by me. I further absolve from all liability, icliniq   and  its owners, managers, directors, employees, agents, partners, advertisers and/ or affiliates  from any legal responsibility for any incorrect or misleading information provided by any professional or contained within the Site.]]></string>
+
+
+
+
+
+    <string name="tab1">CALLS</string>
+    <string name="tab2">CHATS</string>
+    <string name="tab3">CONTACTS</string>
+    <string name="action_search">Search</string>
+    <string name="action_chat">Chat</string>
+    <string name="action_new_group">New Group</string>
+    <string name="action_new_broadcast">New broadcast</string>
+    <string name="action_whatsapp_web">WhatsApp Web</string>
+    <string name="action_starred_messages">Starred messages</string>
+    <string name="action_status">Status</string>
+    <string name="action_clear_call_log">Clear call log</string>
+    <string name="action_calls">Calls</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_without_icon">Without Icon</string>
+    <string name="action_with_icon">With Icon</string>
+    <string name="action_custom">Custom Tab</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="invite_msg1">iCliniq Mobile Application - the Virtual Hospital</string>
+    <string name="invite_msg2"></string>
+    <string name="share_msg">Please Downloard iCliniq App from Google Play store <a href="https://play.google.com/store/apps/details?id=com.orane.docassist">tap here!</a></string>
+    <string name="address"><p>No.7, Bharathi Park Road, 1st Cross Street,<br />Sai baba colony, Coimbatore - 641011,<br />Tamil Nadu, India.<br /><br />Phone :  +91-422-2626663</p></string>
+    <string name="tips1"><![CDATA[&#8226;&#160;&#160;&#160;A well written answer will increase both follow-up and your reputation(brand).<br /><br />
+    &#8226;&#160;&#160;&#160;Include possible causes, investigations and brief diagnosis in your answer.<br /><br />
+    &#8226;&#160;&#160;&#160;Share your knowledge and personal research in the answer.]]></string>
+
+    <string name="tips2"><![CDATA[&#8226;&#160;&#160;&#160;Answer on time.<br /><br />
+    &#8226;&#160;&#160;&#160;Have your photo updated.<br /><br />
+    &#8226;&#160;&#160;&#160;Update your treatment skills.]]></string>
+
+    <string name="tips3"><![CDATA[&#8226;&#160;&#160;&#160;Patients will always read your articles.<br /><br />
+    &#8226;&#160;&#160;&#160;Keep your articles crisp, useful and patient friendly.<br /><br />
+    &#8226;&#160;&#160;&#160;The more the content on your profile will likely turn more visitors in to patients.]]></string>
+
+    <string name="guidline"><![CDATA[&#8226;&#160;&#160;&#160;Greet and Welcome the patient.
+    <br /><br />
+    &#8226;&#160;&#160;&#160;Answer the query elaborately and share your research.
+    <br /><br />
+    &#8226;&#160;&#160;Answer made in point by points will increase the follow-up rate.
+    <br /><br />
+    &#8226;&#160;&#160;&#160;Do not mention your <b>name</b>, <b>email</b> or <b>number</b> anywhere in the answer.
+    <br /><br />
+    &#8226;&#160;&#160;&#160;Do not answer a query if it is not relevant to your practise.
+    <br /><br />
+    &#8226;&#160;&#160;&#160;Do not copy content from wikipedia or other sites.]]></string>
+
+    <string name="hotline_guidline"><![CDATA[&#8226;&#160;&#160;&#160;Hotline service allows your patients to contact you anytime on chat like Whatsapp.
+    <br /><br />
+    &#8226;&#160;&#160;&#160;Your patients can make <b>exclusive subscription</b> with you to avail this service.
+    <br /><br />
+    &#8226;&#160;&#160;We suggest you to charge a premium fee.
+    <br /><br />
+    &#8226;&#160;&#160;&#160;Your earning from subscriptions will be released in two installments.
+    <br /><br />
+    &#8226;&#160;&#160;&#160;50% of your earning will be paid immediately after the subscription and the rest will be paid at the end of the subscription.
+
+]]></string>
+
+
+
+
+
+    <string name="large_text">
+
+     <![CDATA[<br /><b>iCliniq</b> is an online doctor consultation platform where users post their health issues to get medical advice from medical doctors.
+    <br /><br />
+    Users can consult the doctors via queries, phone and video. iCliniq has it &rsquo;s own and big market-share of online patients from US, UK, Australia, India, Europe, Middle East and Israel.
+    <br /><br />
+    Team-icliniq is committed to provide the best in online healthcare. <b>&quot;Prevention is better than cure&quot;</b> is an old adage. Icliniq &#160; s vision is to ensure that all its users are correctly informed about their potential health issues and for the Doctor team at icliniq to help the users with prevention.
+    <br /><br />
+    <a href="https://www.icliniq.com/">icliniq.com</a> is brought to you by Orane Healthcare (I) Private Ltd. Team-icliniq consists of imminent doctors, researchers and programmers who work round the clock to innovate, create and implement the best web technologies for use of doctors, users and hospitals.
+    <br /><br />
+    We are happy of you being with us.
+    <br /><br />
+    Any questions, send an email to <a href="mailto:icliniq@icliniq.com">icliniq@icliniq.com</a>.
+    <br /><br /><br />]]>
+
+    </string>
+    <string name="ftrack_desc"><![CDATA[Pay <b>Rs.99</b> to <b>Fast Track</b> Your Query and get a Detailed Answer in 4 to 8 hours.]]></string>
+    <string name="attach_note"><![CDATA[Note : You can attach images or other files such as pdf, txt, docx etc.. You can also skip this section and proceed to the payment gateway.]]></string>
+    <string name="fileSize">File Size</string>
+    <string name="currentDir">Current Dir</string>
+
+    <string name="file_picker_app_name">MaterialFilePicker</string>
+    <string name="empty_directory_hint">Empty directory</string>
+    <string name="start_path_name">Device</string>
+    <string name="type_archive">Archive</string>
+    <string name="type_certificate">Certificate</string>
+    <string name="type_directory">Directory</string>
+    <string name="type_document">File</string>
+    <string name="type_drawing">Picture</string>
+    <string name="type_excel">Spreadsheet</string>
+    <string name="type_image">Image</string>
+    <string name="type_music">Music</string>
+    <string name="type_video">Video</string>
+    <string name="type_pdf">PDF document</string>
+    <string name="type_power_point">Presentation</string>
+    <string name="type_word">Document</string>
+    <string name="type_apk">APK</string>
+
+    <string name="empty_directory">Empty Directory</string>
+    <string name="chooser_title">Empty Directory</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="choose_file">Select a file</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="internal_storage">Internal storage</string>
+
+
+    <string name="title_settings_dialog">Permissions Required</string>
+    <string name="rationale_video_app">This app needs access to your camera and mic to make video calls</string>
+    <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+    <string name="setting">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Choose a folder</string>
+
+    <string-array name="sports_array">
+        <item>Shuttle Badminton</item>
+        <item>Tennis</item>
+        <item>Table Tennis</item>
+        <item>Basket Ball</item>
+        <item>Foot Ball</item>
+        <item>Volley Ball</item>
+        <item>Hockey</item>
+        <item>Swimming</item>
+
+        <item>Shuttle Badminton 2</item>
+        <item>Tennis 2</item>
+        <item>Table Tennis 2</item>
+        <item>Basket Ball 2</item>
+        <item>Foot Ball 2</item>
+        <item>Volley Ball 2</item>
+        <item>Hockey 2</item>
+        <item>Swimming 2</item>
+
+        <item>Shuttle Badminton 3</item>
+        <item>Tennis 3</item>
+        <item>Table Tennis 3</item>
+        <item>Basket Ball 3</item>
+        <item>Foot Ball 3</item>
+        <item>Volley Ball 3</item>
+        <item>Hockey 3</item>
+        <item>Swimming 3</item>
+
+        <item>Shuttle Badminton 4</item>
+        <item>Tennis 4</item>
+        <item>Table Tennis 4</item>
+        <item>Basket Ball 4</item>
+        <item>Foot Ball 4</item>
+        <item>Volley Ball 4</item>
+        <item>Hockey 4</item>
+        <item>Swimming 4</item>
+
+        <item>Shuttle Badminton 5</item>
+        <item>Tennis 5</item>
+        <item>Table Tennis 5</item>
+        <item>Basket Ball 5</item>
+        <item>Foot Ball 5</item>
+        <item>Volley Ball 5</item>
+        <item>Hockey 5</item>
+        <item>Swimming 5</item>
+    </string-array>
+
+
+</resources>

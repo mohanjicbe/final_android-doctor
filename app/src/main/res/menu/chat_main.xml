@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_attach"
+        android:orderInCategory="100"
+        android:title="Search"
+        android:icon="@mipmap/attach_ico_white"
+        app:showAsAction="always" />
+
+
+
+    <item
+        android:id="@+id/nav_aboutapp"
+        android:orderInCategory="100"
+        android:title="About App"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_ans_tips_answer"
+        android:orderInCategory="100"
+        android:title="Answering Guidelines"
+        android:icon="@mipmap/guidelines"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/nav_ans_improve"
+        android:orderInCategory="100"
+        android:title="Tips to more Earning"
+        app:showAsAction="never" />
+
+
+</menu>
