@@ -80,12 +80,12 @@ public class ConsHistoryView extends AppCompatActivity {
             getSupportActionBar().setDisplayShowHomeEnabled(true);
             getSupportActionBar().setTitle("Consultation Room");
         }
-        //------------ Object Creations -------------------------------
 
-
+        //------------ Object Creations ------------------------------
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             getWindow().setStatusBarColor(getResources().getColor(R.color.app_color));
         }
+
         //---------------------- Object Creation -----------------------
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
         full_layout = (ScrollView) findViewById(R.id.full_LinearLayout);
@@ -377,6 +377,7 @@ public class ConsHistoryView extends AppCompatActivity {
                         attach_file_text = "";
 
                         for (int j = 0; j < jarray_files.length(); j++) {
+
                             jsonobj_files = jarray_files.getJSONObject(j);
                             System.out.println("jsonobj_files------" + j + " ----" + jsonobj_files.toString());
 
