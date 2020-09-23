@@ -55,7 +55,8 @@ public class Invite_Pat_To_Hotline extends AppCompatActivity implements AdapterV
     private static final String PLACES_API_BASE = "https://maps.googleapis.com/maps/api/place";
     private static final String TYPE_AUTOCOMPLETE = "/autocomplete";
     private static final String OUT_JSON = "/json";
-    private static final String API_KEY = "AIzaSyCNuv_IjcLxDa8j_L3xFtnO3gAmglhdC1I"; //Browser key
+    private static final String API_KEY="";
+
     Button btn_submit;
     public String pname, pemail, pmobno, get_pat_name, get_pat_email, get_pat_mobile, ccode_txt, ccode_val, status, cname, sstreet, clinic_street, edt_city, place_id_txt, clinic_id, clinic_name, clinic_geo;
     MaterialEditText edt_cname, edt_street, edt_state, edt_zip, edt_country;
